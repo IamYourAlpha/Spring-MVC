@@ -1,2 +1,3 @@
 # Spring-MVC
-Practice 
+A basic SPring-MVC project for practice.
+
